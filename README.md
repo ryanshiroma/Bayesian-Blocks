@@ -1,4 +1,4 @@
-# SJSU-CAMCOS-NASA-Bayesian-Blocks
+# Bayesian Blocks
 SJSU CAMCOS NASA Bayesian Blocks research project
 I'm currently working on a few projects:
 
